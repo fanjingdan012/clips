@@ -1,0 +1,2 @@
+javac -d bin -cp jclips.jar src/JClipsExample.java
+pause
